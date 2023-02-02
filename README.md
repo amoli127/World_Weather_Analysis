@@ -26,3 +26,11 @@ We generated a set of a set of 2,000 random latitudes and longitudes, retrieve t
 
 We employed input statements to retrieve customer weather preferences. We then used those preferences to identify potential travel destinations and nearby hotels, and showed the below map of possible destinations.
 
+
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/117063056/216284708-df125cd0-d6ca-4eac-a700-1910719a65ee.png)
+
+
+### Vacation Itenerary
+
+We used the Geoapify Routing API to create a travel itenerary that shows the route between the four cities chosen from the curstomer's possoble travel destinations. We highlighted each of the four cities with a marker, and presented the customer with the map below. 
+
