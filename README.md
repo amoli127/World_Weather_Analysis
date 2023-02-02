@@ -34,3 +34,7 @@ We employed input statements to retrieve customer weather preferences. We then u
 
 We used the Geoapify Routing API to create a travel itenerary that shows the route between the four cities chosen from the curstomer's possoble travel destinations. We highlighted each of the four cities with a marker, and presented the customer with the map below. 
 
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/117063056/216285473-c3c4b4ec-6f66-44fd-8ad8-45df65829fcf.png)
+
+
